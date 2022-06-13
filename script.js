@@ -8,22 +8,22 @@ playerLivesCount.textContent = playerLives;
 
 //Generate the data
 const getData = () => [
-    { imgSrc: "../images/adler-2386314__340.jpg", name: "adler-2386314__340" },
-    { imgSrc: "../images/dolphin-203875__340.webp", name: "dolphin-203875__340" },
-    { imgSrc: "../images/horses-2904536__340.webp", name: "horses-2904536__340" },
-    { imgSrc: "../images/kingfisher-2046453__340.webp", name: "kingfisher-2046453__340" },
-    { imgSrc: "../images/lion-3576045__340.jpg", name: "lion-3576045__340" },
-    { imgSrc: "../images/owl-50267__340.jpg", name: "owl-50267__340" },
-    { imgSrc: "../images/parrot-3601194__340.webp", name: "parrot-3601194__340" },
-    { imgSrc: "../images/sea-2361247__340.jpg", name: "sea-2361247__340" },
-    { imgSrc: "../images/adler-2386314__340.jpg", name: "adler-2386314__340" },
-    { imgSrc: "../images/dolphin-203875__340.webp", name: "dolphin-203875__340" },
-    { imgSrc: "../images/horses-2904536__340.webp", name: "horses-2904536__340" },
-    { imgSrc: "../images/kingfisher-2046453__340.webp", name: "kingfisher-2046453__340" },
-    { imgSrc: "../images/lion-3576045__340.jpg", name: "lion-3576045__340" },
-    { imgSrc: "../images/owl-50267__340.jpg", name: "owl-50267__340" },
-    { imgSrc: "../images/parrot-3601194__340.webp", name: "parrot-3601194__340" },
-    { imgSrc: "../images/sea-2361247__340.jpg", name: "sea-2361247__340" }
+    { imgSrc: "./images/adler-2386314__340.jpg", name: "adler-2386314__340" },
+    { imgSrc: "./images/dolphin-203875__340.webp", name: "dolphin-203875__340" },
+    { imgSrc: "./images/horses-2904536__340.webp", name: "horses-2904536__340" },
+    { imgSrc: "./images/kingfisher-2046453__340.webp", name: "kingfisher-2046453__340" },
+    { imgSrc: "./images/lion-3576045__340.jpg", name: "lion-3576045__340" },
+    { imgSrc: "./images/owl-50267__340.jpg", name: "owl-50267__340" },
+    { imgSrc: "./images/parrot-3601194__340.webp", name: "parrot-3601194__340" },
+    { imgSrc: "./images/sea-2361247__340.jpg", name: "sea-2361247__340" },
+    { imgSrc: "./images/adler-2386314__340.jpg", name: "adler-2386314__340" },
+    { imgSrc: "./images/dolphin-203875__340.webp", name: "dolphin-203875__340" },
+    { imgSrc: "./images/horses-2904536__340.webp", name: "horses-2904536__340" },
+    { imgSrc: "./images/kingfisher-2046453__340.webp", name: "kingfisher-2046453__340" },
+    { imgSrc: "./images/lion-3576045__340.jpg", name: "lion-3576045__340" },
+    { imgSrc: "./images/owl-50267__340.jpg", name: "owl-50267__340" },
+    { imgSrc: "./images/parrot-3601194__340.webp", name: "parrot-3601194__340" },
+    { imgSrc: "./images/sea-2361247__340.jpg", name: "sea-2361247__340" }
 ];
 
 //Randomize
